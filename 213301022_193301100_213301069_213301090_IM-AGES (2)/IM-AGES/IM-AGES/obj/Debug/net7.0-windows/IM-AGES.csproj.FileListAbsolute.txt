@@ -1,0 +1,161 @@
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.exe
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.deps.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.runtimeconfig.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Form1.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Properties.Resources.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.GenerateResource.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfoInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfo.cs
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\refint\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.genruntimeconfig.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\ref\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.IM_AGES_Edit.resources
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.exe
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.deps.json
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.runtimeconfig.json
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Form1.resources
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.IM_AGES_Edit.resources
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Properties.Resources.resources
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.GenerateResource.cache
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfoInputs.cache
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfo.cs
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CoreCompileInputs.cache
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\refint\IM-AGES.dll
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.genruntimeconfig.cache
+C:\Users\srtk\Desktop\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\ref\IM-AGES.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.AssemblyReference.cache
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Ana_Sayfa.resources
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Form1.resources
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.IM_AGES_Edit.resources
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Properties.Resources.resources
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.GenerateResource.cache
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfoInputs.cache
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfo.cs
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CoreCompileInputs.cache
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.exe
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.deps.json
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.runtimeconfig.json
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.Up2Date
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\refint\IM-AGES.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.genruntimeconfig.cache
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\ref\IM-AGES.dll
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.ImageSelectionForm.resources
+C:\Users\srtk\Desktop\Projeler\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.CropForm.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\refint\IM-AGES.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.exe
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.deps.json
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OpenCvSharp.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Ana_Sayfa.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.CropForm.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Form1.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.ImageSelectionForm.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.IM_AGES_Edit.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Properties.Resources.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.GenerateResource.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.Up2Date
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\ref\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.exe
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.deps.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.runtimeconfig.json
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OpenCvSharp.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.AssemblyReference.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Ana_Sayfa.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.CropForm.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Form1.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.ImageSelectionForm.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.IM_AGES_Edit.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Properties.Resources.resources
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.GenerateResource.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfoInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfo.cs
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CopyComplete
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\refint\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.genruntimeconfig.cache
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\ref\IM-AGES.dll
+C:\Users\Yusuf Furkan Umutlu\Desktop\Görüntü işleme\Yeni klasör\IM-AGES 2\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Yardım.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.exe
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.deps.json
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.runtimeconfig.json
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OpenCvSharp.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\bin\Debug\net7.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.AssemblyReference.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Ana_Sayfa.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.CropForm.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Form1.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.ImageSelectionForm.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.IM_AGES_Edit.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Properties.Resources.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM_AGES.Yardım.resources
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.GenerateResource.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.csproj.Up2Date
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\refint\IM-AGES.dll
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.pdb
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\IM-AGES.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\Masaüstü\IM-AGES\IM-AGES\obj\Debug\net7.0-windows\ref\IM-AGES.dll

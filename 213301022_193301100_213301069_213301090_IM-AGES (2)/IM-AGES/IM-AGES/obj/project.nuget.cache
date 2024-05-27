@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JR4bTX0G0POCflXV2sEdtJJwcHKIRi+khdw/98ZkEZisfKiqZswIoP5R1Fz+7w60YomCb6j1cjwS932R2BY/mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahmu\\OneDrive\\Masaüstü\\IM-AGES\\IM-AGES\\IM-AGES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahmu\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\oxyplot.windowsforms\\2.1.0\\oxyplot.windowsforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
